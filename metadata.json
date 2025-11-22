@@ -1,0 +1,5 @@
+{
+  "name": "AccountPlan.ai",
+  "description": "An intelligent agent that researches companies and generates comprehensive account plans using real-time data.",
+  "requestFramePermissions": []
+}
